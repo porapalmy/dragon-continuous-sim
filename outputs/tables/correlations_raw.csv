@@ -1,0 +1,11 @@
+x,y,n_points,pearson,spearman,figure
+length_m,wingspan_m,40,0.9909804027074611,0.9919290518170287,/Users/palmuuu/Desktop/dragon_project/src/../outputs/figures/wingspan_m_vs_length_m_raw.png
+length_m,height_m,40,0.9768949463587461,0.996573019802051,/Users/palmuuu/Desktop/dragon_project/src/../outputs/figures/height_m_vs_length_m_raw.png
+length_m,mass_kg,40,0.888529285297641,1.0,/Users/palmuuu/Desktop/dragon_project/src/../outputs/figures/mass_kg_vs_length_m_raw.png
+length_m,wing_area_m2,40,0.9341799924979736,0.9939937132617493,/Users/palmuuu/Desktop/dragon_project/src/../outputs/figures/wing_area_m2_vs_length_m_raw.png
+wingspan_m,height_m,40,0.9846597106510513,0.9965732015376116,/Users/palmuuu/Desktop/dragon_project/src/../outputs/figures/height_m_vs_wingspan_m_raw.png
+wingspan_m,mass_kg,40,0.9179352865932349,0.9919290518170287,/Users/palmuuu/Desktop/dragon_project/src/../outputs/figures/mass_kg_vs_wingspan_m_raw.png
+wingspan_m,wing_area_m2,40,0.9606791819075601,0.9994369369369369,/Users/palmuuu/Desktop/dragon_project/src/../outputs/figures/wing_area_m2_vs_wingspan_m_raw.png
+height_m,mass_kg,40,0.9297539156386139,0.996573019802051,/Users/palmuuu/Desktop/dragon_project/src/../outputs/figures/mass_kg_vs_height_m_raw.png
+height_m,wing_area_m2,40,0.9673332596016976,0.997324304803173,/Users/palmuuu/Desktop/dragon_project/src/../outputs/figures/wing_area_m2_vs_height_m_raw.png
+mass_kg,wing_area_m2,40,0.9887695895131282,0.9939937132617493,/Users/palmuuu/Desktop/dragon_project/src/../outputs/figures/wing_area_m2_vs_mass_kg_raw.png
