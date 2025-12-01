@@ -10,11 +10,11 @@ The simulation combines lore-based descriptions with biological scaling laws to 
 
 - `LICENSE`
 - `README.md`
-- `data/` — raw and processed datasets (dragon dimensions, lore estimates)
-- `outputs/` — figures, simulation results, and logs
-- `src/` — Python source code for simulations and modeling
-- `requirements.txt` — Python dependencies
-- `venv/` — virtual environment
+- `data/`
+- `outputs/`
+- `src/`
+- `requirements.txt`
+- `venv/`
 
 ---
 
